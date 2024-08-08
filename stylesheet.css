@@ -1,4 +1,4 @@
-/* General styles */
+
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -53,7 +53,6 @@ h1 {
     margin: 10px 0 0 0;
 }
 
-/* Use div to create sections */
 .section {
     padding: 20px;
     margin: 20px;
@@ -82,7 +81,6 @@ a:hover {
     color: red;
 } 
 
-/* Change box model properties */
 img {
     border: 2px solid #000;
     margin: 10px;
